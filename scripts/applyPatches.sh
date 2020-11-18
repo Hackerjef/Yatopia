@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+# uwu 
+
 # SCRIPT HEADER start
 basedir=$1
 source "$basedir/scripts/functions.sh"
